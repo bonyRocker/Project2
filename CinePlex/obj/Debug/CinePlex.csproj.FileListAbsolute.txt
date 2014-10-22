@@ -1,0 +1,32 @@
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\bin\Debug\CinePlex.exe.config
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\bin\Debug\CinePlex.exe
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\bin\Debug\CinePlex.pdb
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Form1.resources
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Properties.Resources.resources
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.csproj.GenerateResource.Cache
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.exe
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.pdb
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.csprojResolveAssemblyReference.cache
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Form2.resources
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Form3.resources
+c:\users\rasif\documents\visual studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Form4.resources
+C:\Users\Rasif\Documents\Visual Studio 2012\Projects\CinePlex\CinePlex\bin\Debug\Database1.mdf
+C:\Users\Rasif\Documents\Visual Studio 2012\Projects\CinePlex\CinePlex\bin\Debug\Database1_log.ldf
+C:\Users\Rasif\Documents\Visual Studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Form5.resources
+C:\Users\Rasif\Documents\Visual Studio 2012\Projects\CinePlex\CinePlex\obj\Debug\CinePlex.Form6.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\bin\Debug\CinePlex.exe.config
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.exe
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.pdb
+H:\Porashuna 3.1\CinePlex\CinePlex\bin\Debug\Database1.mdf
+H:\Porashuna 3.1\CinePlex\CinePlex\bin\Debug\Database1_log.ldf
+H:\Porashuna 3.1\CinePlex\CinePlex\bin\Debug\CinePlex.exe
+H:\Porashuna 3.1\CinePlex\CinePlex\bin\Debug\CinePlex.pdb
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.csprojResolveAssemblyReference.cache
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Form1.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Form2.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Form3.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Form4.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Form5.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Form6.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.Properties.Resources.resources
+H:\Porashuna 3.1\CinePlex\CinePlex\obj\Debug\CinePlex.csproj.GenerateResource.Cache
